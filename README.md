@@ -17,7 +17,7 @@ To use PDFBeMine, follow these steps:
 
 1. Clone the repository:
 
-`git clone https://github.com/your-username/PDFBeMine.git`
+`git clone https://github.com/jbrenan/PDFBeMine.git`
 
 2. Install the required dependencies:
 
